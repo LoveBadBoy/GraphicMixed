@@ -1,0 +1,100 @@
+/*
+ Localizable.strings
+ MarkLite
+ 
+ Created by zhubch on 7/5/16.
+ Copyright © 2016 zhubch. All rights reserved.
+ */
+"TabTitle1"="Note";
+"TabTitle2"="File";
+"TabTitle3"="Options";
+
+"NavTitleMarkLite"="MarkLite";
+"NavTitleLocalFile"="Local File";
+"NavTitleCloudFile"="iCloud";
+"NavTitleOptions"="Options";
+
+"SortByName"="Sort by file name";
+"SortByCreateTime"="Sort by created time";
+"SortByUpdateTime"="Sort by updated time";
+
+"Font"="Font";
+"Preview"="Preview";
+"Done"="Done";
+"Reset"="Reset";
+"Back"="Back";
+"Edit"="Edit";
+"FullScreen"="Full Screen";
+"Return"="Return";
+"Next"="Next";
+
+"Feedback"="Feedback";
+"RateIt"="Rate it";
+"About"="About";
+"Style"="Style";
+"ImageResolution"="Image resolution";
+"AssistKeyboard"="Assistive keyboard";
+"Donate"="Donate";
+
+"OK"="OK";
+"Close"="Close";
+"Alert"="Alert";
+"Cancel"="Cancel";
+"Delete"="Delete";
+"Move"="Move";
+"Export"="Export";
+"ExportAs"="Export as";
+"Rename"="Rename";
+"WebPage"="WebPage";
+"PDF"="PDF";
+"Markdown"="Markdown";
+
+"ChooseYourOperation"="Choose your operation";
+"FileNameAlertTitle"="Name the new file";
+"FolderNameAlertTitle"="Name the new folder";
+"NewMarkdownFile"= "New Markdown file";
+"NewFolder"= "New directory";
+"NameAlertMessage"="Please input the name";
+"DeleteMessage"="Sure you want to delete the file? This action is irreversible!";
+"DuplicateError"="An error occured! Duplicate name?";
+
+"CanNotDeleteRoot"="Cannot delete root directory";
+"EmptyNameTips"="File name can not be empty";
+"InvalidName"="Invalid file name";
+
+"InsertHref"="Insert a link";
+"InputHrefTips"="Please input the URL";
+"Uploading"="Uploading...";
+
+"Path"="Path: ";
+"LastUpdate"="Last update: ";
+
+"Open"="Open";
+"Ignore"="Ignore";
+"ReceivedNewFile"="Received new file: %@";
+"Error"="Error occured";
+
+"UpgradeTitle"="New version available!";
+"UpgradeTips"="Upgrade to the latest version to have a better experience!😄";
+"Upgrade"="Upgrade";
+"DontUpgrade"="Remind me later";
+
+"StartEdit"="Start editing here";
+
+"Search"="Search";
+
+"Loading"="Loading";
+
+"ImageResolutionTips"="The lower the resolution, the faster the upload";
+"High"="High";
+"Low"="Low";
+
+"Recieved"="Recieved files";
+"GuidesName"="Guides";
+
+"DonateTitle"="Buy me a coffee";
+"DonateTips"="MarkLite is a free app with no ads. If you like it, just share it with your friends! You can also buy me a coffee to support me. I will make it better!";
+"DonatePrice"="Donate $0.99";
+
+"Name"="Name";
+"NamePlaceholder"="Please input the name,return to end";
